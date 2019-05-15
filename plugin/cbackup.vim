@@ -146,4 +146,3 @@ endif
 "-------------------------------------------------------------------------------
 " vim: textwidth=0 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
 " vim: filetype=vim foldmethod=marker
-
